@@ -1,0 +1,92 @@
+.main-div {
+  margin-left: 300px;
+
+}
+
+.info-tehnology {
+  background: #fef1b6;
+  border-left-color: #e1c542;
+  border-left-style: solid;
+  border-left-width: 5px;
+  height: auto;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.use {
+  background: #dcf4ff;
+  border-left-color: #1e7f9d;
+  border-left-style: solid;
+  border-left-width: 5px;
+  height: auto;
+  padding: 10px;
+  margin-top: 20px
+}
+
+.main-table {
+  padding: 5px 10px 15px 10px;
+  border: 2px solid #00458b;
+  border-left-width: 5px;
+  border-bottom: 2px solid #00458b
+}
+.codetext {
+  color: #00458b;
+  background-color: #eee;
+  text-decoration: none
+}
+
+.codetext:hover {
+  text-decoration: underline
+}
+
+
+.line {
+  color: #000000;
+}
+.line:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.no-line {
+  color: #00458b;
+  text-decoration: none
+}
+
+.no-line:hover {
+  text-decoration: underline
+}
+
+.example {
+  background-color: #eee;
+  border-left: 5px solid #00458b;
+  height: auto;
+  padding: 1px 10px;
+}
+
+.red-text {
+  color: #905
+}
+
+.JSON {
+  background: #fef1b6;
+  border-left-color: #e1c542;
+  border-left-style: solid;
+  border-left-width: 5px;
+  height: auto;
+  padding: 3px 10px 3px 10px;
+  box-sizing: border-box;
+}
+
+.mini {
+  border: 1px solid grey
+}
+
+.no-lineb {
+  color: #000000;
+  text-decoration: none
+}
+
+.no-lineb:hover {
+  text-decoration: underline
+}
